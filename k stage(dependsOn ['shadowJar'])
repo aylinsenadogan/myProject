@@ -1,0 +1,95 @@
+[33mcommit 606764b4a1550cc6a44d2d26b1730b432bc0e7cf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Fri Feb 4 00:53:33 2022 +0300
+
+    Getting ready for deployment to heroku
+
+[33mcommit d1c72c886affb2e1f63fe32c4ca7e9101805c76f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 22:43:09 2022 +0300
+
+    Feature/new branch (#3)
+    
+    * new feature
+    
+    * new feature
+
+[33mcommit 296a19d5ddd3cd425508636a56631fafe9fb79c9[m
+Merge: 95e69f7 a92b692
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 22:35:38 2022 +0300
+
+    Merge pull request #2 from aylinsenadogan/feature/xyz
+    
+    new feature
+
+[33mcommit a92b692d602f4cc47260657eead6254ea37f66d9[m
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Thu Feb 3 22:34:40 2022 +0300
+
+    new feature
+
+[33mcommit 95e69f74665f7dc9be8574da4489063ef85ea1b7[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 22:23:16 2022 +0300
+
+    Create README.md
+
+[33mcommit 79f75e35342742fd9d51d65eab06aff0f4607a73[m
+Merge: 905a77a 20ab102
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Thu Feb 3 22:18:32 2022 +0300
+
+    Merge branch 'main' of https://github.com/aylinsenadogan/myProject
+
+[33mcommit 905a77a083025e0432567bf8d5c1fdce657e8c77[m
+Merge: 1b1823f 5bead6f
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Thu Feb 3 22:18:06 2022 +0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 20ab102fbe42dd2d53cd65b0819fb71d549ef961[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 22:17:16 2022 +0300
+
+    Delete README.md
+
+[33mcommit 5bead6fc3f06c9134498d9f81cff64c16f6661cb[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 22:06:25 2022 +0300
+
+    Update README.md
+
+[33mcommit 3bee09d7f7a3212fc6a8fbe53dfead22763e5b80[m
+Merge: 7f91da5 4c31d4b
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 21:54:32 2022 +0300
+
+    Merge pull request #1 from aylinsenadogan/circleci-project-setup
+    
+    Add .circleci/config.yml
+
+[33mcommit 1b1823f8083c8877662d5e47f2a02456ec9a0dfb[m
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Thu Feb 3 21:48:41 2022 +0300
+
+    Setting up continuous integration
+
+[33mcommit 4c31d4b82583add860dbb2254d6d41b967cfd156[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 21:34:45 2022 +0300
+
+    Add .circleci/config.yml
+
+[33mcommit 7f91da5a28449f169297a6adc82d4d4cda3562f2[m
+Author: aylinsenadogan <84875964+aylinsenadogan@users.noreply.github.com>
+Date:   Thu Feb 3 21:31:22 2022 +0300
+
+    Update README.md
+
+[33mcommit 454aa9930cd0868b0f2116a8751302938c395cc6[m
+Author: aylinsenadogan <aylinsena2000@hotmail.com>
+Date:   Thu Feb 3 20:54:08 2022 +0300
+
+    I have started my awesome projectgit statusgit status It will be great.
